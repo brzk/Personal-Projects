@@ -1,0 +1,7 @@
+c:\users\barak\onedrive\documents\visual studio 2015\Projects\WaitressingConsoleApplication\WaitressingConsoleApplication\bin\Debug\WaitressingConsoleApplication.exe.config
+D:\Projects\C# Project\Waitressing\WaitressingConsoleApplication\WaitressingConsoleApplication\bin\Debug\WaitressingConsoleApplication.exe.config
+D:\Projects\C# Project\Waitressing\WaitressingConsoleApplication\WaitressingConsoleApplication\obj\Debug\WaitressingConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Projects\C# Project\Waitressing\WaitressingConsoleApplication\WaitressingConsoleApplication\bin\Debug\WaitressingConsoleApplication.exe
+D:\Projects\C# Project\Waitressing\WaitressingConsoleApplication\WaitressingConsoleApplication\bin\Debug\WaitressingConsoleApplication.pdb
+D:\Projects\C# Project\Waitressing\WaitressingConsoleApplication\WaitressingConsoleApplication\obj\Debug\WaitressingConsoleApplication.exe
+D:\Projects\C# Project\Waitressing\WaitressingConsoleApplication\WaitressingConsoleApplication\obj\Debug\WaitressingConsoleApplication.pdb

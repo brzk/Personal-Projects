@@ -1,0 +1,5 @@
+D:\Projects\C# Project\Waitressing\WaitressingLibrary\WaitressingLibrary\bin\Debug\WaitressingLibrary.dll
+D:\Projects\C# Project\Waitressing\WaitressingLibrary\WaitressingLibrary\bin\Debug\WaitressingLibrary.pdb
+D:\Projects\C# Project\Waitressing\WaitressingLibrary\WaitressingLibrary\obj\Debug\WaitressingLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\C# Project\Waitressing\WaitressingLibrary\WaitressingLibrary\obj\Debug\WaitressingLibrary.dll
+D:\Projects\C# Project\Waitressing\WaitressingLibrary\WaitressingLibrary\obj\Debug\WaitressingLibrary.pdb
