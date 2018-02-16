@@ -1,0 +1,9 @@
+D:\Projects\C# Project\SubtitlesNameApplication\SubtitlesNameApplication\bin\Debug\SubtitlesNameApplication.exe.config
+D:\Projects\C# Project\SubtitlesNameApplication\SubtitlesNameApplication\bin\Debug\SubtitlesNameApplication.exe
+D:\Projects\C# Project\SubtitlesNameApplication\SubtitlesNameApplication\bin\Debug\SubtitlesNameApplication.pdb
+D:\Projects\C# Project\SubtitlesNameApplication\SubtitlesNameApplication\obj\Debug\SubtitlesNameApplication.csprojResolveAssemblyReference.cache
+D:\Projects\C# Project\SubtitlesNameApplication\SubtitlesNameApplication\obj\Debug\SubtitlesNameApplication.Form1.resources
+D:\Projects\C# Project\SubtitlesNameApplication\SubtitlesNameApplication\obj\Debug\SubtitlesNameApplication.Properties.Resources.resources
+D:\Projects\C# Project\SubtitlesNameApplication\SubtitlesNameApplication\obj\Debug\SubtitlesNameApplication.csproj.GenerateResource.Cache
+D:\Projects\C# Project\SubtitlesNameApplication\SubtitlesNameApplication\obj\Debug\SubtitlesNameApplication.exe
+D:\Projects\C# Project\SubtitlesNameApplication\SubtitlesNameApplication\obj\Debug\SubtitlesNameApplication.pdb
